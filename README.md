@@ -45,7 +45,7 @@ These explicit constraints represent 5/5 residual convergence, demonstrating a m
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sovryn-architect/open-quantum-photonics.git
+   git clone https://github.com/n57d30top/open-quantum-photonics.git
    ```
 2. Navigate to the hardware directory and run the FDTD validation:
    ```bash
